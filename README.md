@@ -1,3 +1,4 @@
+Ujjwal-Bajpayee-patch-2
 Unified Student Collaboration and Anonymous Confession Platform - SRS
 1. Introduction
 
@@ -112,3 +113,4 @@ WCAG: Web Content Accessibility Guidelines for making web content accessible to 
 
 5.2 References
 Slack and Discord: For examples of real-time chat and resource-sharing platforms.
+
