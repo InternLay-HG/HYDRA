@@ -1,6 +1,6 @@
-Ujjwal-Bajpayee-patch-2
 Unified Student Collaboration and Anonymous Confession Platform - SRS
-1. Introduction
+
+### 1. Introduction
 
 
 1.1 Purpose
@@ -20,7 +20,7 @@ Post confessions or personal thoughts anonymously, fostering an open and support
 1.3 Audience
 This document is intended for developers, designers, project managers, and stakeholders involved in the platform's development and maintenance.
 
-2. Overall Description
+### 2. Overall Description
 
 
 2.1 Product Perspective
@@ -49,7 +49,7 @@ Scalability: Support for a growing number of users and data.
 Accessibility: Compatible with various devices and browsers.
 
 
-3. Functional Requirements
+### 3. Functional Requirements
 
 
 3.1 Academic Resource Hub
@@ -79,7 +79,7 @@ Role-based Access: Admin, educator, and student roles, each with specific permis
 Password Recovery: Password reset functionality for users.
 
 
-4. Tech Stack
+### 4. Tech Stack
 
 
 4.1 Frontend
@@ -102,7 +102,7 @@ Hugging Face Transformers: For implementing text moderation and natural language
 4.4 Authentication
 Firebase or Auth0: To handle user login, role-based access, and secure sessions.
 
-5. Appendices
+### 5. Appendices
 
 
 5.1 Glossary
