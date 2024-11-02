@@ -116,9 +116,14 @@ Slack and Discord: For examples of real-time chat and resource-sharing platforms
 
 
 ### 6. Team Members and Domains
+
 ->Ujjwal Bajpayee(Team Leader) - ML/AI & Web Development
+
 ->Himanshu Gupta - UI/UX
+
 ->Ayush Singhal - Web Development
+
 ->Bhumika Tiwari - Web Development
+
 ->Tanmay Agarwal - ML/AI
 
