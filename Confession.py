@@ -1,3 +1,4 @@
+#code to check sentiment
 from transformers import pipeline
 moderation_model=pipeline("text-classification",model="unitary/unbiased-toxic-roberta")
 sentiment_model=pipeline("sentiment-analysis",model="nlptown/bert-base-multilingual-uncased-sentiment")
