@@ -1,0 +1,10 @@
+#Layout{
+    background-image: url('./Images/animated.gif'); 
+    background-position: center;       
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    max-height: fit-content;
+    
+
+    color: white; 
+}
