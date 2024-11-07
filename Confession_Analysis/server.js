@@ -53,7 +53,6 @@ app.post('/analyze', (req, res) => {
             res.status(500).json({ error: 'An error occurred while running the script.' }); // Send error response
         }
     })();
-    console.log("hii");
 });
 
 
