@@ -11,8 +11,8 @@ function Layout2() {
     <>
       <div id="Layout2">
         <SideMenu/>
-        <Outlet/>
-        <Frame4/>
+        {/* <Outlet/>
+        <Frame4/> */}
       </div>
     </>
   )
