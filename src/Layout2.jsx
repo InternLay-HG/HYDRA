@@ -7,6 +7,7 @@ import Frame from './Components/Frame4/Frame'
 
 
 function Layout2() {
+  console.log("hiii")
   return (
     <>
       <div id="Layout2">
