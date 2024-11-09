@@ -1,7 +1,11 @@
 import React from 'react'
 import './sidemenu.css'
+import { Link, NavLink, useNavigate } from 'react-router-dom'
 
 function SideMenu() {
+    const navigate = useNavigate()
+
+
   return (
     <>
 
@@ -11,7 +15,7 @@ function SideMenu() {
       <div className="highlight-rectangle"></div>
       <div className="sidebar-icons">
         <div className="icon">
-            <img id='mySpace' src="./Images/Subtract.png" alt="" />
+            <NavLink><img id='mySpace' src="./Images/Subtract.png" alt="" /></NavLink>
             <span className="tooltip">My Space</span>
         </div>
         <div className="icon">
@@ -27,6 +31,11 @@ function SideMenu() {
             <span className="tooltip">Resource Hub</span>
         </div>
       </div>
+    </div>
+
+    <div className="category">
+        <h1 id='galaxy'>GALAXIES</h1>
+
     </div>
     </>
   )
