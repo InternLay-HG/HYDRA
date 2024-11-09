@@ -8,7 +8,7 @@ import Login from './Components/Login/Login'
 import Signup from './Components/Signup/Signup'
 import Aboutus from './Components/Aboutus/Aboutus'
 import Layout2 from './Layout2'
-import Homepage from './Components/Home/Homepage'
+import HomePage from './Components/HomePage/HomePage'
 
 
 
@@ -41,7 +41,7 @@ const router = createBrowserRouter([
     children: [
       {
         path:'',
-        element: <Homepage/>
+        element: <HomePage/>
       }
     ]
   }
