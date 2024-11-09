@@ -114,3 +114,18 @@ WCAG: Web Content Accessibility Guidelines for making web content accessible to 
 5.2 References
 Slack and Discord: For examples of real-time chat and resource-sharing platforms.
 
+
+### 6. Figma File Link
+-> https://www.figma.com/design/KzpsaQaecZHYYtEN83IwVT/Campus-Cove?node-id=0-1&t=K2S98FTAHSFspoGr-1
+
+
+### 7. Team Members and Domains
+->Ujjwal Bajpayee(Team Leader) - ML/AI & Web Development
+
+->Himanshu Gupta - UI/UX
+
+->Ayush Singhal - Web Development
+
+->Bhumika Tiwari - Web Development
+
+->Tanmay Agarwal - ML/AI
