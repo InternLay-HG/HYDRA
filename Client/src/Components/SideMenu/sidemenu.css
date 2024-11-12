@@ -1,6 +1,6 @@
 
   .sidebar {
-    position: relative;
+    /* position: fixed; */
     width: 76px;
     height: 100vh;
     background: linear-gradient(to bottom, #9677dd, #4e35a1);
@@ -70,7 +70,7 @@
     background: rgba(94, 80, 143, 0.8);
     box-shadow: 0 0 15px rgba(128, 0, 255, 0.5);
   }
-  .tooltip {
+  /* .tooltip {
     visibility: hidden;
     width: auto;
     background-color: rgba(0, 0, 0, 0.7);
@@ -85,7 +85,8 @@
     opacity: 0;
     transition: opacity 0.3s;
     white-space: nowrap;
-  }
+    z-index: 10;
+  } */
   
   .icon:hover .tooltip {
     visibility: visible;
@@ -120,6 +121,8 @@ letter-spacing: 0.16em;
 text-align: center;
 text-underline-position: from-font;
 text-decoration-skip-ink: none;
+color: white;
+
 
 
   }
@@ -137,4 +140,27 @@ text-decoration-skip-ink: none;
   *{
     margin: 0px;
     padding: 0px;
+  }
+  #options{
+    position: relative;
+    top: 80px;
+    left: 20px;
+    color: white;
+    font-size: 18px;
+  }
+  #options span{
+    position: relative;
+    left: 40px;
+    bottom: 22px;
+  }
+  .task{
+    margin: 0px 0px 15px 0px;
+    width: 200px;
+    height: 40px;
+    padding: 13px;
+  }
+  .task:hover{
+    background: #00000080;
+    background-blend-mode: overlay;
+
   }

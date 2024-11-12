@@ -10,9 +10,11 @@ function Layout2() {
   return (
     <>
       <div id="Layout2">
-        <SideMenu/>
-        {/* <Outlet/>
-        <Frame4/> */}
+        
+        <div id='SideMenu'><SideMenu/></div>
+        <div id='outlet'><Outlet/></div>
+        <div id='Frame4'><Frame4/></div>
+        
       </div>
     </>
   )
