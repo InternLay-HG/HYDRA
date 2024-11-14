@@ -6,7 +6,7 @@ function Header() {
   return (
     <>
         <nav>
-        <img id="logo" src="./Images/logo.png" alt="" />
+        <img id="logo" src="/Images/logo.png" alt="" />
         <li id="nav">
              <ul><NavLink to="/">HOME</NavLink></ul>
              <ul><NavLink to='login'>LOGIN</NavLink></ul>
