@@ -129,3 +129,6 @@ Slack and Discord: For examples of real-time chat and resource-sharing platforms
 ->Bhumika Tiwari - Web Development
 
 ->Tanmay Agarwal - ML/AI
+
+### 8. Deployed Link
+-> [Campus Cove](https://clinquant-cobbler-138fb7.netlify.app/)
