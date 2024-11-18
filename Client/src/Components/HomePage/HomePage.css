@@ -1,0 +1,76 @@
+.OUTER{
+    background: rgba(29, 32, 62, 1);
+    width: 716px;
+    height: 100vh;
+    position: absolute;
+    left: 320px;
+}
+.feedarea{
+    width: 716px;
+    /* height: 800px; */
+    top: 44px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+}
+#banner{
+    width: 668px;
+    height: 178px;
+    top: 26px;
+    left: 24px;
+    gap: 0px;
+    border-radius: 20px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+}
+#frame52{
+    position: absolute;
+    /* width: Fixed (659px)px;
+    height: Hug (26px)px; */
+    top: 230px;
+    left: 24px;
+    gap: 0px;
+    padding: auto;
+    opacity: 0px;
+    display: flex;
+}
+.first{
+    width: 600px;
+    height: 26px;
+    gap: 0px;
+    border: 0.5px 0px 0px 0px;
+    opacity: 0px;
+    margin: 0px 0px 0px 2px;
+    color: white;
+    font-size: 22px;
+}
+.second{
+    width: 60px;
+    height: 16.6px;
+    gap: 0px;
+    opacity: 0px;
+    color: rgba(183, 181, 181, 1);
+    margin: 5px;
+}
+#frame53{
+    position: absolute;
+    /* width: Fixed (659px)px;
+    height: Hug (26px)px; */
+    top: 500px;
+    left: 24px;
+    gap: 0px;
+    padding: auto;
+    opacity: 0px;
+    display: flex;   
+}
+#frame54{
+    position: absolute;
+    /* width: Fixed (659px)px;
+    height: Hug (26px)px; */
+    top: 717px;
+    left: 24px;
+    gap: 0px;
+    padding: auto;
+    opacity: 0px;
+    display: flex;
+}
