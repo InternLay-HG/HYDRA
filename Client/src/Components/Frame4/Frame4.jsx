@@ -14,6 +14,24 @@ function Frame4() {
           <img src="/Images/Ellipse 14.png" alt="" id='userphoto'/>
           <div id="name">HIMANSHU</div>
           <div id="nameid">@astrohimanshu</div>
+          <div id="frame3703">
+            <div id="avatar">
+              <img src="/Images/avatar.png" alt="" />
+              <p>Edit Avatar</p>
+            </div>
+            <div id="Changeusername">
+              <img src="/Images/username.png" alt="" />
+              <p>Username</p>
+            </div>
+            <div id="Achievement">
+              <img src="/Images/achievement.png" alt="" />
+              <p>Achievement</p>
+            </div>
+            <div id="LogOut">
+              <img src="/Images/logout.png" alt="" />
+              <p>Log Out</p>
+            </div>
+          </div>
         </div>
       </div>
     </>
