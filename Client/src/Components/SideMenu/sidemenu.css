@@ -1,7 +1,7 @@
 
   .sidebar {
     /* position: fixed; */
-    width: 110px;
+    width: 90px;
     height: 100vh;
     background: linear-gradient(to bottom, #9677dd, #4e35a1);
     /* background: #1D203E4D; */
@@ -32,7 +32,7 @@
     width: 75px;
     height: 370px;
     top: 115px;
-    left: 35px;
+    left: 15px;
     background: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(10px);
     box-shadow: 0 0 10px rgba(128, 0, 255, 0.3);
@@ -96,10 +96,10 @@
 
 .category{
     position: absolute;
-    width: 278px;
+    width: 228px;
 height: 100vh;
 top: 0px;
-left: 110px;
+left: 90px;
 /* padding: 0px 0px 508px 0px; */
 gap: 0px;
 opacity: 1px;
