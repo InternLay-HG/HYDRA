@@ -1,0 +1,18 @@
+#Layout2{
+    /* background-color: #212121; */
+    min-height: 100vh;
+    max-height: fit-content;
+    /* display: inline-flex; */
+    display: flex;
+    flex-direction: row;
+    gap: 400px;
+}
+/* #SideMenu{
+
+} */
+/* #outlet{
+    width: 20vw;
+}
+#Frame4{
+    width: 50vw;
+} */

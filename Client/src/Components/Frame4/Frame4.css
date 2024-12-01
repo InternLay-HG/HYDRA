@@ -1,0 +1,237 @@
+.OUTER2{
+    width: 205px;
+    height: 844px;
+    left: 1314px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+    background: rgba(44, 47, 72, 1);
+    box-shadow: 1px 0px 0px 0px rgba(255, 255, 255, 0.1) inset;
+}
+#frame59{
+    width: 205px;
+height: 49px;
+padding: 0px 0px 1.83px 51px;
+gap: 0px;
+opacity: 0px;
+background: rgba(255, 255, 255, 0.001);
+box-shadow: 0px -1px 0px 0px rgba(255, 255, 255, 0.1) inset;
+position: absolute;
+}
+#frame43{
+    width: Hug (193px)px;
+height: Hug (42.17px)px;
+left: 15px;
+padding: 10px 30px 10px 30px;
+gap: 33.25px;
+opacity: 0px;
+position: absolute;
+display: flex;
+}
+#notifictaion{
+    width: 22.17px;
+height: 22.17px;
+padding: 2.08px;
+gap: 0px;
+opacity: 0px;
+}
+#profile{
+    width: 22.17px;
+height: 22.17px;
+padding: 2.77px;
+gap: 0px;
+opacity: 0px;
+
+}
+#settings{
+    width: 22.17px;
+height: 22.17px;
+padding: 1.85px 2.23px 1.85px 2.23px;
+gap: 0px;
+opacity: 0px;
+}
+#userphoto{
+    width: 108px;
+    height: 108px;
+    top: 114px;
+    left: 55px;
+    gap: 0px;
+    border: 1.74px 0px 0px 0px;
+    opacity: 0px;
+    /* border: 1.74px solid; */
+    border-image-source: linear-gradient(151.28deg, #A73EE7 6.42%, #00EBFF 84.32%);
+    position: absolute;
+}
+#name{
+    position: absolute;
+    width: 149px;
+    height: 32px;
+    top: 240px;
+    left: 36px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Lato;
+    font-size: 22.53px;
+    font-weight: 500;
+    line-height: 31.84px;
+    letter-spacing: 0.16em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}
+#nameid{
+    width: 125px;
+height: 15px;
+top: 275px;
+left: 36px;
+gap: 0px;
+opacity: 0px;
+font-family: Lato;
+font-size: 12.67px;
+font-weight: 500;
+line-height: 15.21px;
+letter-spacing: 0.16em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+position: absolute;
+color: rgba(133, 129, 129, 1);
+
+}
+#frame3703{
+    width: Fixed (212px)px;
+height: Hug (173px)px;
+top: 351px;
+left: 16px;
+gap: 11px;
+opacity: 0px;
+position: absolute;
+}
+#avatar{
+    width: 170px;
+    height: 35px;
+    padding: 8px 70px 7.31px 0px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 0.3);
+    background-blend-mode: overlay;
+    position: absolute;
+    display: flex;
+}
+#avatar img{
+    width: 19.69px;
+height: 19.69px;
+padding: 2.46px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+left: 9px;
+}
+#avatar p{
+    width: 76.29px;
+    height: 6px;
+    gap: 0px;
+    opacity: 0px;
+    color: rgba(187, 186, 186, 1);
+    position: absolute;
+    left: 35px;
+    top: 5px;
+}
+#Changeusername{
+    width: 170px;
+    height: 35px;
+    padding: 8px 70px 7.31px 0px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 0.3);
+    background-blend-mode: overlay;
+    position: absolute;
+    display: flex;
+    top: 50px;
+}
+#Changeusername img{
+    width: 19.69px;
+height: 19.69px;
+padding: 2.46px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+left: 9px;
+}
+#Changeusername p{
+    width: 76.29px;
+    height: 6px;
+    gap: 0px;
+    opacity: 0px;
+    color: rgba(187, 186, 186, 1);
+    position: absolute;
+    left: 35px;
+    top: 5px;
+}
+#Achievement{
+    width: 170px;
+    height: 35px;
+    padding: 8px 70px 7.31px 0px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 0.3);
+    background-blend-mode: overlay;
+    position: absolute;
+    display: flex;
+    top: 100px;
+}
+#Achievement img{
+    width: 19.69px;
+height: 19.69px;
+padding: 2.46px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+left: 9px;
+}
+#Achievement p{
+    width: 76.29px;
+    height: 6px;
+    gap: 0px;
+    opacity: 0px;
+    color: rgba(187, 186, 186, 1);
+    position: absolute;
+    left: 35px;
+    top: 5px;
+}
+#LogOut{
+    width: 170px;
+    height: 35px;
+    padding: 8px 70px 7.31px 0px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 0.3);
+    background-blend-mode: overlay;
+    position: absolute;
+    display: flex;
+    top: 150px;
+}
+#LogOut img{
+    width: 19.69px;
+height: 19.69px;
+padding: 2.46px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+left: 9px;
+}
+#LogOut p{
+    width: 76.29px;
+    height: 6px;
+    gap: 0px;
+    opacity: 0px;
+    color: rgba(187, 186, 186, 1);
+    position: absolute;
+    left: 35px;
+    top: 5px;
+}

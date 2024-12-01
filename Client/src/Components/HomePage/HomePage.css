@@ -1,0 +1,286 @@
+.OUTER{
+    background: rgba(29, 32, 62, 1);
+    width: 1000px;
+    height: 100vh;
+    position: absolute;
+    left: 314px;
+}
+.feedarea{
+    width: 1000px;
+    /* height: 800px; */
+    top: 44px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+}
+#banner{
+    width: 900px;
+    height: 178px;
+    top: 26px;
+    left: 50px;
+    gap: 0px;
+    border-radius: 20px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+}
+#frame52{
+    position: absolute;
+    /* width: Fixed (659px)px;
+    height: Hug (26px)px; */
+    top: 230px;
+    left: -20px;
+    gap: 0px;
+    padding: auto;
+    opacity: 0px;
+    display: flex;
+}
+.first{
+    width: 820px;
+    height: 26px;
+    gap: 0px;
+    border: 0.5px 0px 0px 0px;
+    opacity: 0px;
+    margin: 0px 0px 0px 62px;
+    color: white;
+    font-size: 22px;
+}
+.second{
+    width: 60px;
+    height: 16.6px;
+    gap: 0px;
+    opacity: 0px;
+    color: rgba(183, 181, 181, 1);
+    margin: 5px;
+}
+#frame53{
+    position: absolute;
+    /* width: Fixed (659px)px;
+    height: Hug (26px)px; */
+    top: 500px;
+    left: -20px;
+    gap: 0px;
+    padding: auto;
+    opacity: 0px;
+    display: flex;   
+}
+#frame54{
+    position: absolute;
+    /* width: Fixed (659px)px;
+    height: Hug (26px)px; */
+    top: 717px;
+    left: 24px;
+    gap: 0px;
+    padding: auto;
+    opacity: 0px;
+    display: flex;
+}
+.featuredCard{
+    width: 320px;
+    height: 208px;
+    top: 274px;
+    left: 10px;
+    gap: 0px;
+    border-radius: 20px;
+    position: absolute;
+    background: rgba(44, 47, 72, 1);
+    border-image-source: linear-gradient(114.98deg, rgba(1, 183, 197, 0.7) 2.37%, rgba(120, 44, 150, 0.7) 94.66%);
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.5);
+}
+#nextone{
+    position: absolute;
+    left: 367px;
+}
+.rectangle93{
+    position: absolute;
+    width: 320px;
+    height: 208px;
+    opacity: 0px;
+    background: conic-gradient(from 180deg at 50% 50%, #7976E8 -111.6deg, #F449F4 7.2deg, #0019C0 154.8deg, #7976E8 248.4deg, #F449F4 367.2deg),
+    radial-gradient(73.67% 73.67% at 50% 18.67%, #31376F 0%, rgba(137, 75, 162, 0) 100%),
+    linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+    backdrop-filter: blur(50px);
+    border-radius: 20px;
+    /* clip-path: ellipse(41% 30% at 51% 0%); */
+    /* border-top-left-radius: 20%; */
+    /* border-top-left-radius: 20px; */
+    /* clip-path: path("M0 0 Q200 50 400 0 L400 250 Q200 200 0 250 Z");
+    clip-path: polygon(0% 100%, 99% 100%, 100% 39%, 78% 24%, 53% 45%, 20% 22%, 0% 41%); */
+    /* clip-path: polygon(50% at 50% 50%); */
+    /* clip-path: ellipse( 40% 20% at 50% 0%); */
+}
+.gamepad{
+    width: 320px;
+    height: 208px;
+    border-radius: 20px;
+    clip-path: ellipse(70% 43% at 50% 0%);
+}
+.ellipse{
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    top: 52px;
+    left: 127px;
+    gap: 0px;
+    opacity: 0px;
+}
+.game{
+    width: 166px;
+    height: 20.55px;
+    top: 114px;
+    left: 18px;
+    gap: 0px;
+    border: 0.4px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+    color: white;
+    /* font-family: SF Compact Rounded; */
+    font-size: 19.39px;
+    font-weight: 400;
+    /* line-height: 26.26px;
+    letter-spacing: 0.15em;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none; */
+}
+.content{
+    width: 273px;
+    height: 30px;
+    top: 150px;
+    left: 19px;
+    gap: 0px;
+    opacity: 0px;
+    /* font-family: Lato; */
+    font-size: 13.98px;
+    font-weight: 400;
+    line-height: 15.06px;
+    letter-spacing: 0.0023em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    position: absolute;
+    color: white;
+}
+#rectangle932{
+    position: absolute;
+    left: 340px;
+}
+#rectangle933{
+    position: absolute;
+    left: 670px;
+}
+.featuredCard2{
+    width: 320px;
+    height: 152px;
+    gap: 0px;
+    border-radius: 20px 20px 20px 20px;
+    opacity: 0px;
+    background: rgba(44, 47, 72, 1);
+    border-image-source: linear-gradient(103.23deg, #01B7C5 3.85%, #782C96 97.09%);
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 554px;
+    left: 10px;
+}
+#featuredCard22{
+    position: absolute;
+    left: 340px;
+}
+.bsnl{
+    width: 176px;
+    height: 152px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 20px; 
+}
+.frame51{
+    width: 210px;
+    height: 152px;
+    left: 110px;
+    gap: 0px;
+    border-radius: 20px 20px 20px 20px;
+    background: linear-gradient(125.58deg, #5B7FD6 2.41%, #1BB1D0 41.12%);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    position: absolute;
+    top: 0px;
+}
+.ellipse12{
+    width: 46px;
+height: 46px;
+top: 53px;
+left: 90px;
+gap: 0px;
+opacity: 0px;
+background: rgba(255, 255, 255, 1);
+border-image-source: conic-gradient(from 180deg at 50% 50%, #7976E8 -57.6deg, #F449F4 57.6deg, #0019C0 176.4deg, #7976E8 302.4deg, #F449F4 417.6deg);
+position: absolute;
+border-radius: 100%;
+}
+.BSNL{
+    width: 106px;
+    height: 19.19px;
+    top: 21px;
+    left: 43px;
+    gap: 0px;
+    border: 0.36px 0px 0px 0px;
+    opacity: 0px;
+    position: absolute;
+    color: white;
+}
+.content2{
+    width: 153px;
+    height: 45px;
+    top: 54px;
+    left: 43px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+    color: white;
+    font-size: 15px;
+}
+#featuredCard23{
+    position: absolute;
+    left: 670px;
+}
+.rectangle92{
+    width: 1000px;
+height: 49px;
+top: 0px;
+left: 0px;
+gap: 0px;
+border-radius: 4px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+background: linear-gradient(180deg, rgba(46, 51, 90, 0.3) 0%, rgba(28, 27, 51, 0.3) 100%);
+border: 1px solid;
+
+border-image-source: linear-gradient(270.28deg, rgba(195, 34, 255, 0.4) -2.36%, rgba(0, 235, 255, 0.4) 72.1%);
+
+position: absolute;
+}
+.frame47{
+    /* width: Hug (89.2px)px; */
+    width: 540px;
+height: Hug (17.15px)px;
+top: 13px;
+left: 213.28px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+display: flex;
+border: 2px solid black;
+
+}
+.frame47 img{
+    width: 14.72px;
+    height: 14.72px;
+    margin: 5px 0px 10px 220px;
+}
+.frame47 p{
+    width: 89.2px;
+height: 17.15px;
+gap: 0px;
+opacity: 0px;
+color: rgba(255, 255, 255, 0.8);
+    position: absolute;
+    left: 250px;
+}
